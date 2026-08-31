@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 03ee4c81593096746a6d3ad2e16f57f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 524966524337681198
+    second: flor magica_0
+  - first:
+      213: -1298415980560825494
+    second: flor magica_1
+  - first:
+      213: -606835314724014876
+    second: flor magica_2
+  - first:
+      213: 2653582147110779488
+    second: flor magica_3
+  - first:
+      213: 4783975531831704004
+    second: flor magica_4
+  - first:
+      213: -3302146612194118082
+    second: flor magica_5
+  - first:
+      213: 4967737269048656954
+    second: flor magica_6
+  - first:
+      213: 2443329203838939617
+    second: flor magica_7
+  - first:
+      213: -8511984341130645078
+    second: flor magica_8
+  - first:
+      213: 8080698372475916790
+    second: flor magica_9
+  - first:
+      213: -2397272057415259314
+    second: flor magica_10
+  - first:
+      213: 8755463171426412529
+    second: flor magica_11
+  - first:
+      213: -1865606414837105573
+    second: flor magica_12
+  - first:
+      213: -6355813802509794046
+    second: flor magica_13
+  - first:
+      213: -7023613952227062236
+    second: flor magica_14
+  - first:
+      213: 7098745638929784698
+    second: flor magica_15
+  - first:
+      213: 2338015914666299784
+    second: flor magica_16
+  - first:
+      213: 7821301698376726546
+    second: flor magica_17
+  - first:
+      213: -1049617651425501720
+    second: flor magica_18
+  - first:
+      213: -7940686579416661166
+    second: flor magica_19
+  - first:
+      213: 1363669315528281325
+    second: flor magica_20
+  - first:
+      213: 58816570391676947
+    second: flor magica_21
+  - first:
+      213: 333642308990387774
+    second: flor magica_22
+  - first:
+      213: -4089476926455463856
+    second: flor magica_23
+  - first:
+      213: 8489432945071547752
+    second: flor magica_24
+  - first:
+      213: -7178735251731678093
+    second: flor magica_25
+  - first:
+      213: 5481938804097304692
+    second: flor magica_26
+  - first:
+      213: -3313092669843912795
+    second: flor magica_27
+  - first:
+      213: 8420235538190479973
+    second: flor magica_28
+  - first:
+      213: 3677280425204657610
+    second: flor magica_29
+  - first:
+      213: 404641848507427455
+    second: flor magica_30
+  - first:
+      213: 2340059925628348988
+    second: flor magica_31
+  - first:
+      213: -4060571422570844508
+    second: flor magica_32
+  - first:
+      213: -309522717932684083
+    second: flor magica_33
+  - first:
+      213: -1490799388514897657
+    second: flor magica_34
+  - first:
+      213: 5304085607576130877
+    second: flor magica_35
+  - first:
+      213: -4929740293747612576
+    second: flor magica_36
+  - first:
+      213: 4634372052591872274
+    second: flor magica_37
+  - first:
+      213: 1098373554478862641
+    second: flor magica_38
+  - first:
+      213: -7207738776503230525
+    second: flor magica_39
+  - first:
+      213: 6778253925220316709
+    second: flor magica_40
+  - first:
+      213: -2682822742595521173
+    second: flor magica_41
+  - first:
+      213: 5263703706248679647
+    second: flor magica_42
+  - first:
+      213: -8063802105754985417
+    second: flor magica_43
+  - first:
+      213: -4598453110887618440
+    second: flor magica_44
+  - first:
+      213: -634973689022539838
+    second: flor magica_45
+  - first:
+      213: -5308537724437979403
+    second: flor magica_46
+  - first:
+      213: -5171841333852194391
+    second: flor magica_47
+  - first:
+      213: -6878094552041528955
+    second: flor magica_48
+  - first:
+      213: 4243190240291405258
+    second: flor magica_49
+  - first:
+      213: -5503269871710391441
+    second: flor magica_50
+  - first:
+      213: -534429816300322618
+    second: flor magica_51
+  - first:
+      213: -820446209720199372
+    second: flor magica_52
+  - first:
+      213: -4488053253061326530
+    second: flor magica_53
+  - first:
+      213: 8132252183425782294
+    second: flor magica_54
+  - first:
+      213: -4835032510748588926
+    second: flor magica_55
+  - first:
+      213: 8706384005116450595
+    second: flor magica_56
+  - first:
+      213: -953106603150869777
+    second: flor magica_57
+  - first:
+      213: -4761427354848983983
+    second: flor magica_58
+  - first:
+      213: 2028955935573271399
+    second: flor magica_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flor magica_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1059
+        width: 224
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237e12c54e094700800000000000000
+      internalID: 524966524337681198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 906
+        height: 1278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634bf38b891bfde0800000000000000
+      internalID: -1298415980560825494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1250
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e476b41f761497f0800000000000000
+      internalID: -606835314724014876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1238
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3bdc47ea63d420800000000000000
+      internalID: 2653582147110779488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1265
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c93dfc4668146240800000000000000
+      internalID: 4783975531831704004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1249
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36f8e7d62b6c22d0800000000000000
+      internalID: -3302146612194118082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1123
+        width: 109
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344d1bd9b2f0f440800000000000000
+      internalID: 4967737269048656954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1240
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1782037f278e120800000000000000
+      internalID: 2443329203838939617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa17835175b5fd980800000000000000
+      internalID: -8511984341130645078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1247
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1118c3b58642070800000000000000
+      internalID: 8080698372475916790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1165
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2bcbd3cd2bbed0800000000000000
+      internalID: -2397272057415259314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_11
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1167
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e2e0bd57a18970800000000000000
+      internalID: 8755463171426412529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 993
+        width: 181
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb1f0a9d80c16e0800000000000000
+      internalID: -1865606414837105573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1047
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20501ea650d9bc7a0800000000000000
+      internalID: -6355813802509794046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 918
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e470ab25c178e90800000000000000
+      internalID: -7023613952227062236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 743
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f534f3c8fc38260800000000000000
+      internalID: 7098745638929784698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 895
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88115e8461d427020800000000000000
+      internalID: 2338015914666299784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 899
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21877e4a478da8c60800000000000000
+      internalID: 7821301698376726546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 831
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9dc0ae420f61f0800000000000000
+      internalID: -1049617651425501720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538829a0a30dc190800000000000000
+      internalID: -7940686579416661166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 629
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc927740abce210800000000000000
+      internalID: 1363669315528281325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 569
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184a11fb55f0d000800000000000000
+      internalID: 58816570391676947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_22
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 615
+        width: 132
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c96d89e551a400800000000000000
+      internalID: 333642308990387774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 703
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050477107624f37c0800000000000000
+      internalID: -4089476926455463856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_24
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 697
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ec7bd84680d570800000000000000
+      internalID: 8489432945071547752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_25
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 811
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c75f7b252006c90800000000000000
+      internalID: -7178735251731678093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_26
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 849
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47846aa3c42c31c40800000000000000
+      internalID: 5481938804097304692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_27
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 825
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c00235c78502d0800000000000000
+      internalID: -3313092669843912795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_28
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 838
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b6f21c9faad470800000000000000
+      internalID: 8420235538190479973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_29
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 863
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd22db4013580330800000000000000
+      internalID: 3677280425204657610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_30
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 849
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aea890e939d9500800000000000000
+      internalID: 404641848507427455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_31
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 847
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a643caa10997020800000000000000
+      internalID: 2340059925628348988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_32
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 919
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeef841ec3f5a7c0800000000000000
+      internalID: -4060571422570844508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 535
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc75bb5aba54bbf0800000000000000
+      internalID: -309522717932684083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 541
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013330dadd9f4be0800000000000000
+      internalID: -1490799388514897657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 511
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3556d102c5eb9940800000000000000
+      internalID: 5304085607576130877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 470
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646e3c525b069bb0800000000000000
+      internalID: -4929740293747612576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 479
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198cbfe3d8905040800000000000000
+      internalID: 4634372052591872274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 463
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1315569ade43e3f00800000000000000
+      internalID: 1098373554478862641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 439
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf57b065c7f8fb90800000000000000
+      internalID: -7207738776503230525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_40
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 118
+        width: 267
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52677224802311e50800000000000000
+      internalID: 6778253925220316709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 365
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6531480ee2b4cad0800000000000000
+      internalID: -2682822742595521173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 345
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01cdde1ae6c0940800000000000000
+      internalID: 5263703706248679647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 345
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c5d6b65be971090800000000000000
+      internalID: -8063802105754985417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 287
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878e04162430f20c0800000000000000
+      internalID: -4598453110887618440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_45
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 305
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c797184bce1037f0800000000000000
+      internalID: -634973689022539838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 238
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe1d12c0194456b0800000000000000
+      internalID: -5308537724437979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9be0d55bde938b0800000000000000
+      internalID: -5171841333852194391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_48
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 223
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e30652791c80a0800000000000000
+      internalID: -6878094552041528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_49
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 191
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd39faca07d2ea30800000000000000
+      internalID: 4243190240291405258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b791953570a3b0800000000000000
+      internalID: -5503269871710391441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_51
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 145
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ca02e9e25598f0800000000000000
+      internalID: -534429816300322618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_52
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 145
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437df48e4803d94f0800000000000000
+      internalID: -820446209720199372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_53
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 141
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e394e36585b37b1c0800000000000000
+      internalID: -4488053253061326530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121df836409bd070800000000000000
+      internalID: 8132252183425782294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 75
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2848d5f6c8386ecb0800000000000000
+      internalID: -4835032510748588926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 61
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327db1fcf1a43d870800000000000000
+      internalID: 8706384005116450595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feafc1e1892e5c2f0800000000000000
+      internalID: -953106603150869777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_58
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 31
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15406624c030cedb0800000000000000
+      internalID: -4761427354848983983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor magica_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 35
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e3cc6cac482c10800000000000000
+      internalID: 2028955935573271399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flor magica_0: 524966524337681198
+      flor magica_1: -1298415980560825494
+      flor magica_10: -2397272057415259314
+      flor magica_11: 8755463171426412529
+      flor magica_12: -1865606414837105573
+      flor magica_13: -6355813802509794046
+      flor magica_14: -7023613952227062236
+      flor magica_15: 7098745638929784698
+      flor magica_16: 2338015914666299784
+      flor magica_17: 7821301698376726546
+      flor magica_18: -1049617651425501720
+      flor magica_19: -7940686579416661166
+      flor magica_2: -606835314724014876
+      flor magica_20: 1363669315528281325
+      flor magica_21: 58816570391676947
+      flor magica_22: 333642308990387774
+      flor magica_23: -4089476926455463856
+      flor magica_24: 8489432945071547752
+      flor magica_25: -7178735251731678093
+      flor magica_26: 5481938804097304692
+      flor magica_27: -3313092669843912795
+      flor magica_28: 8420235538190479973
+      flor magica_29: 3677280425204657610
+      flor magica_3: 2653582147110779488
+      flor magica_30: 404641848507427455
+      flor magica_31: 2340059925628348988
+      flor magica_32: -4060571422570844508
+      flor magica_33: -309522717932684083
+      flor magica_34: -1490799388514897657
+      flor magica_35: 5304085607576130877
+      flor magica_36: -4929740293747612576
+      flor magica_37: 4634372052591872274
+      flor magica_38: 1098373554478862641
+      flor magica_39: -7207738776503230525
+      flor magica_4: 4783975531831704004
+      flor magica_40: 6778253925220316709
+      flor magica_41: -2682822742595521173
+      flor magica_42: 5263703706248679647
+      flor magica_43: -8063802105754985417
+      flor magica_44: -4598453110887618440
+      flor magica_45: -634973689022539838
+      flor magica_46: -5308537724437979403
+      flor magica_47: -5171841333852194391
+      flor magica_48: -6878094552041528955
+      flor magica_49: 4243190240291405258
+      flor magica_5: -3302146612194118082
+      flor magica_50: -5503269871710391441
+      flor magica_51: -534429816300322618
+      flor magica_52: -820446209720199372
+      flor magica_53: -4488053253061326530
+      flor magica_54: 8132252183425782294
+      flor magica_55: -4835032510748588926
+      flor magica_56: 8706384005116450595
+      flor magica_57: -953106603150869777
+      flor magica_58: -4761427354848983983
+      flor magica_59: 2028955935573271399
+      flor magica_6: 4967737269048656954
+      flor magica_7: 2443329203838939617
+      flor magica_8: -8511984341130645078
+      flor magica_9: 8080698372475916790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

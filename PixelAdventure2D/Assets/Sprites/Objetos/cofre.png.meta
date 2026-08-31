@@ -1,34 +1,49 @@
 fileFormatVersion: 2
-guid: edc288e229df0f84e96262c3c576bbdf
+guid: a2ae019747d802d428da7269bc689473
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7244325253237200522
-    second: TerrenoDeLaSelva_0
+      213: -8359929200229367975
+    second: cofre_0
   - first:
-      213: -8537478897373182138
-    second: TerrenoDeLaSelva_1
+      213: 5429183364568197868
+    second: cofre_1
   - first:
-      213: 6931626779415410841
-    second: TerrenoDeLaSelva_2
+      213: 7288100845127848175
+    second: cofre_2
   - first:
-      213: -8095676958403410506
-    second: TerrenoDeLaSelva_3
+      213: -6738881312473399135
+    second: cofre_3
   - first:
-      213: 9176852007973828596
-    second: TerrenoDeLaSelva_4
+      213: -7292403681136149936
+    second: cofre_4
   - first:
-      213: -7547344840816225261
-    second: TerrenoDeLaSelva_5
+      213: -8145195887625979147
+    second: cofre_5
   - first:
-      213: -6809038789493028710
-    second: TerrenoDeLaSelva_6
+      213: 7951648927372838424
+    second: cofre_6
   - first:
-      213: 1481600116435533086
-    second: TerrenoDeLaSelva_7
+      213: 7827543718865288897
+    second: cofre_7
   - first:
-      213: 7293090128889033958
-    second: TerrenoDeLaSelva_8
+      213: 8543332584724505195
+    second: cofre_8
+  - first:
+      213: -7748709548923857377
+    second: cofre_9
+  - first:
+      213: -3160249332699425465
+    second: cofre_10
+  - first:
+      213: 6724508878585336786
+    second: cofre_11
+  - first:
+      213: -8228743271820362686
+    second: cofre_12
+  - first:
+      213: 577327684869655525
+    second: cofre_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -61,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -137,265 +152,309 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TerrenoDeLaSelva_0
+      name: cofre_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 575
-        width: 796
-        height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 679a763709cf67b90800000000000000
-      internalID: -7244325253237200522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_1
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 431
-        width: 222
-        height: 276
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6478da42d28c48980800000000000000
-      internalID: -8537478897373182138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraGrande
-      rect:
-        serializedVersion: 2
-        x: 1029
-        y: 579
-        width: 147
-        height: 140
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 998f3ae94d5123060800000000000000
-      internalID: 6931626779415410841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 615
-        height: 570
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b5cc06f2b066af80800000000000000
-      internalID: -8095676958403410506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_4
-      rect:
-        serializedVersion: 2
-        x: 628
-        y: 430
-        width: 131
-        height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f73c9bb74aba5f70800000000000000
-      internalID: 9176852007973828596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_5
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 141
-        width: 371
-        height: 279
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31495c5dad1724790800000000000000
-      internalID: -7547344840816225261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_6
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 279
-        width: 170
-        height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a98896afb4f6181a0800000000000000
-      internalID: -6809038789493028710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_7
-      rect:
-        serializedVersion: 2
-        x: 783
-        y: 113
-        width: 203
-        height: 308
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1d315fb473bf8410800000000000000
-      internalID: 1481600116435533086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_8
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 0
-        width: 588
-        height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e4b65fe4d2463560800000000000000
-      internalID: 7293090128889033958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraGigante
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 156
-        width: 107
-        height: 200
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edd538c15d9d06d45a551a6cdd2621f5
-      internalID: 186623991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraConPlanta
-      rect:
-        serializedVersion: 2
-        x: 1288
-        y: 12
-        width: 173
-        height: 127
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2f6d808e94c2b44aa1a88e5a88f75fc
-      internalID: -827266544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trampa1
-      rect:
-        serializedVersion: 2
-        x: 1680
-        y: 16
-        width: 201
-        height: 86
+        x: 419
+        y: 480
+        width: 490
+        height: 399
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3b61d617fb431f94cb80a7992b9061be
-      internalID: 769097110
+      spriteID: 95fb9e86fa09bfb80800000000000000
+      internalID: -8359929200229367975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 811
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2c894185585b40800000000000000
+      internalID: 5429183364568197868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 497
+        width: 362
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d119ca19842560800000000000000
+      internalID: 7288100845127848175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 499
+        width: 336
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04182862faa72a0800000000000000
+      internalID: -6738881312473399135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 725
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af0232d7d2cca90800000000000000
+      internalID: -7292403681136149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 489
+        width: 362
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab41cce7376fe80800000000000000
+      internalID: -8145195887625979147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 378
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8168caed19ee95e60800000000000000
+      internalID: 7951648927372838424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 27
+        width: 518
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3eca4a8501ac60800000000000000
+      internalID: 7827543718865288897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 45
+        width: 341
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622686a8b3009670800000000000000
+      internalID: 8543332584724505195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_9
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1657bc38bd077490800000000000000
+      internalID: -7748709548923857377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_10
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 23
+        width: 423
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74519c2c9f98424d0800000000000000
+      internalID: -3160249332699425465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 305
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31a057231425d50800000000000000
+      internalID: 6724508878585336786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_12
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 56
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf24f8791adcd80800000000000000
+      internalID: -8228743271820362686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofre_13
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb87a77874130800800000000000000
+      internalID: 577327684869655525
       vertices: []
       indices: 
       edges: []
@@ -404,7 +463,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3d52136daf74a8044a5bb997e0296c4c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -414,18 +473,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TerrenoDeLaSelva_0: -7244325253237200522
-      TerrenoDeLaSelva_1: -8537478897373182138
-      TerrenoDeLaSelva_3: -8095676958403410506
-      TerrenoDeLaSelva_4: 9176852007973828596
-      TerrenoDeLaSelva_5: -7547344840816225261
-      TerrenoDeLaSelva_6: -6809038789493028710
-      TerrenoDeLaSelva_7: 1481600116435533086
-      TerrenoDeLaSelva_8: 7293090128889033958
-      piedraConPlanta: -827266544
-      piedraGigante: 186623991
-      piedraGrande: 6931626779415410841
-      trampa1: 769097110
+      cofre_0: -8359929200229367975
+      cofre_1: 5429183364568197868
+      cofre_10: -3160249332699425465
+      cofre_11: 6724508878585336786
+      cofre_12: -8228743271820362686
+      cofre_13: 577327684869655525
+      cofre_2: 7288100845127848175
+      cofre_3: -6738881312473399135
+      cofre_4: -7292403681136149936
+      cofre_5: -8145195887625979147
+      cofre_6: 7951648927372838424
+      cofre_7: 7827543718865288897
+      cofre_8: 8543332584724505195
+      cofre_9: -7748709548923857377
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

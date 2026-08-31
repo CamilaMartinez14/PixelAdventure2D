@@ -1,34 +1,37 @@
 fileFormatVersion: 2
-guid: edc288e229df0f84e96262c3c576bbdf
+guid: afc636bcb42fa4944b94da1e0cb23871
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7244325253237200522
-    second: TerrenoDeLaSelva_0
+      213: -8623618863599700181
+    second: agua_0
   - first:
-      213: -8537478897373182138
-    second: TerrenoDeLaSelva_1
+      213: -240344817294725294
+    second: agua_1
   - first:
-      213: 6931626779415410841
-    second: TerrenoDeLaSelva_2
+      213: -4837601068803655911
+    second: agua_2
   - first:
-      213: -8095676958403410506
-    second: TerrenoDeLaSelva_3
+      213: -6592352050561239092
+    second: agua_3
   - first:
-      213: 9176852007973828596
-    second: TerrenoDeLaSelva_4
+      213: -8610169510348432994
+    second: agua_4
   - first:
-      213: -7547344840816225261
-    second: TerrenoDeLaSelva_5
+      213: 3966155367765563322
+    second: agua_5
   - first:
-      213: -6809038789493028710
-    second: TerrenoDeLaSelva_6
+      213: -3561328136676567302
+    second: agua_6
   - first:
-      213: 1481600116435533086
-    second: TerrenoDeLaSelva_7
+      213: 615521943456493763
+    second: agua_7
   - first:
-      213: 7293090128889033958
-    second: TerrenoDeLaSelva_8
+      213: -1220020913917003992
+    second: agua_8
+  - first:
+      213: 1869401185761447582
+    second: agua_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +73,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -137,265 +140,221 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TerrenoDeLaSelva_0
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 575
-        width: 796
-        height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 679a763709cf67b90800000000000000
-      internalID: -7244325253237200522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_1
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 431
-        width: 222
-        height: 276
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6478da42d28c48980800000000000000
-      internalID: -8537478897373182138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraGrande
-      rect:
-        serializedVersion: 2
-        x: 1029
-        y: 579
-        width: 147
-        height: 140
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 998f3ae94d5123060800000000000000
-      internalID: 6931626779415410841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_3
+      name: agua_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 615
-        height: 570
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b5cc06f2b066af80800000000000000
-      internalID: -8095676958403410506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_4
-      rect:
-        serializedVersion: 2
-        x: 628
-        y: 430
-        width: 131
-        height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f73c9bb74aba5f70800000000000000
-      internalID: 9176852007973828596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_5
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 141
-        width: 371
-        height: 279
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31495c5dad1724790800000000000000
-      internalID: -7547344840816225261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_6
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 279
-        width: 170
-        height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a98896afb4f6181a0800000000000000
-      internalID: -6809038789493028710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_7
-      rect:
-        serializedVersion: 2
-        x: 783
-        y: 113
-        width: 203
-        height: 308
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1d315fb473bf8410800000000000000
-      internalID: 1481600116435533086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TerrenoDeLaSelva_8
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 0
-        width: 588
-        height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e4b65fe4d2463560800000000000000
-      internalID: 7293090128889033958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraGigante
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 156
-        width: 107
-        height: 200
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edd538c15d9d06d45a551a6cdd2621f5
-      internalID: 186623991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraConPlanta
-      rect:
-        serializedVersion: 2
-        x: 1288
-        y: 12
-        width: 173
-        height: 127
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2f6d808e94c2b44aa1a88e5a88f75fc
-      internalID: -827266544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trampa1
-      rect:
-        serializedVersion: 2
-        x: 1680
-        y: 16
-        width: 201
-        height: 86
+        y: 91
+        width: 2172
+        height: 442
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3b61d617fb431f94cb80a7992b9061be
-      internalID: 769097110
+      spriteID: b2738cc5550c25880800000000000000
+      internalID: -8623618863599700181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_1
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 486
+        width: 150
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25faa8d79af1aacf0800000000000000
+      internalID: -240344817294725294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 435
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91778e865736ddcb0800000000000000
+      internalID: -4837601068803655911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 439
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7baffdcb24384a0800000000000000
+      internalID: -6592352050561239092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_4
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 387
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9958cfe278828880800000000000000
+      internalID: -8610169510348432994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 2172
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7dcab1b4d9a0730800000000000000
+      internalID: 3966155367765563322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af61accadee939ec0800000000000000
+      internalID: -3561328136676567302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 35
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0be2742f5ca8800800000000000000
+      internalID: 615521943456493763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_8
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 49
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827fd67517d911fe0800000000000000
+      internalID: -1220020913917003992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agua_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4104597271f910800000000000000
+      internalID: 1869401185761447582
       vertices: []
       indices: 
       edges: []
@@ -404,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3d52136daf74a8044a5bb997e0296c4c
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -414,18 +373,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TerrenoDeLaSelva_0: -7244325253237200522
-      TerrenoDeLaSelva_1: -8537478897373182138
-      TerrenoDeLaSelva_3: -8095676958403410506
-      TerrenoDeLaSelva_4: 9176852007973828596
-      TerrenoDeLaSelva_5: -7547344840816225261
-      TerrenoDeLaSelva_6: -6809038789493028710
-      TerrenoDeLaSelva_7: 1481600116435533086
-      TerrenoDeLaSelva_8: 7293090128889033958
-      piedraConPlanta: -827266544
-      piedraGigante: 186623991
-      piedraGrande: 6931626779415410841
-      trampa1: 769097110
+      agua_0: -8623618863599700181
+      agua_1: -240344817294725294
+      agua_2: -4837601068803655911
+      agua_3: -6592352050561239092
+      agua_4: -8610169510348432994
+      agua_5: 3966155367765563322
+      agua_6: -3561328136676567302
+      agua_7: 615521943456493763
+      agua_8: -1220020913917003992
+      agua_9: 1869401185761447582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
