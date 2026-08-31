@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: e10152216a373354caa9837db1ca8974
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2256961157228128284
+    second: piso de noche_0
+  - first:
+      213: -4944189450201273724
+    second: piso de noche_1
+  - first:
+      213: 7169131357948483540
+    second: piso de noche_2
+  - first:
+      213: 6994481426832515608
+    second: piso de noche_3
+  - first:
+      213: -4734130729623075459
+    second: piso de noche_4
+  - first:
+      213: 4260061077989733101
+    second: piso de noche_5
+  - first:
+      213: 1652237873025485480
+    second: piso de noche_6
+  - first:
+      213: 4815803357699039182
+    second: piso de noche_7
+  - first:
+      213: -751180571516592871
+    second: piso de noche_8
+  - first:
+      213: 1647704317944553507
+    second: piso de noche_9
+  - first:
+      213: -183626037022096724
+    second: piso de noche_10
+  - first:
+      213: -3240054149297958819
+    second: piso de noche_11
+  - first:
+      213: 480581060945878143
+    second: piso de noche_12
+  - first:
+      213: 319486897396561326
+    second: piso de noche_13
+  - first:
+      213: 957898339586773404
+    second: piso de noche_14
+  - first:
+      213: 539635565364818323
+    second: piso de noche_15
+  - first:
+      213: -3437679533835728475
+    second: piso de noche_16
+  - first:
+      213: 8915693646771243055
+    second: piso de noche_17
+  - first:
+      213: 7870178860577627344
+    second: piso de noche_18
+  - first:
+      213: 2598805884449539555
+    second: piso de noche_19
+  - first:
+      213: 7921512725258176466
+    second: piso de noche_20
+  - first:
+      213: 2971890475908101935
+    second: piso de noche_21
+  - first:
+      213: 5914131719268081144
+    second: piso de noche_22
+  - first:
+      213: 7455208874278068123
+    second: piso de noche_23
+  - first:
+      213: 7287281257384455461
+    second: piso de noche_24
+  - first:
+      213: -4241397970934007697
+    second: piso de noche_25
+  - first:
+      213: 4318376334725300420
+    second: piso de noche_26
+  - first:
+      213: 4355916373600723976
+    second: piso de noche_27
+  - first:
+      213: -2670350530446142785
+    second: piso de noche_28
+  - first:
+      213: -8846915182668039503
+    second: piso de noche_29
+  - first:
+      213: 1015718703844163530
+    second: piso de noche_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piso de noche1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 2136
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ef60f636525f10800000000000000
+      internalID: 2256961157228128284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 586
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ae486f3e5b26bb0800000000000000
+      internalID: -4944189450201273724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 546
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d712a28cfedd7360800000000000000
+      internalID: 7169131357948483540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 546
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126b62acc3611160800000000000000
+      internalID: 6994481426832515608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_4
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 545
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754e841f2dfc4eb0800000000000000
+      internalID: -4734130729623075459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_5
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2bb0bcaf6ce1b30800000000000000
+      internalID: 4260061077989733101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 95
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8122779dede610800000000000000
+      internalID: 1652237873025485480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd8cb73ab25d240800000000000000
+      internalID: 4815803357699039182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_8
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d149800454395f0800000000000000
+      internalID: -751180571516592871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32066f5e852ddd610800000000000000
+      internalID: 1647704317944553507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 46
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca209cb9711a37df0800000000000000
+      internalID: -183626037022096724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509012fae30903d0800000000000000
+      internalID: -3240054149297958819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c957fbded5ba600800000000000000
+      internalID: 480581060945878143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b6b5f3ab0f6400800000000000000
+      internalID: 319486897396561326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_14
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919106f6732b4d00800000000000000
+      internalID: 957898339586773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 37
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391bcb500bb2d7700800000000000000
+      internalID: 539635565364818323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a947167da8ea40d0800000000000000
+      internalID: -3437679533835728475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 46
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c1066228eabb70800000000000000
+      internalID: 8915693646771243055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_18
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 34
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc9487c9fd783d60800000000000000
+      internalID: 7870178860577627344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e54fcece20d01420800000000000000
+      internalID: 2598805884449539555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 19
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d700c88adddeed60800000000000000
+      internalID: 7921512725258176466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_21
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 37
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277edf54a64e3920800000000000000
+      internalID: 2971890475908101935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 35
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd18d9d677331250800000000000000
+      internalID: 5914131719268081144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_23
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f1fa5c8f8367760800000000000000
+      internalID: 7455208874278068123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d23c4a1bf912560800000000000000
+      internalID: 7287281257384455461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687a6f64078325c0800000000000000
+      internalID: -4241397970934007697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c041cd8564fdeb30800000000000000
+      internalID: 4318376334725300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 33
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80467c7fcd2537c30800000000000000
+      internalID: 4355916373600723976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_28
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 19
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb25bf6375201fad0800000000000000
+      internalID: -2670350530446142785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_29
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1babf0ba381793580800000000000000
+      internalID: -8846915182668039503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche_30
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff95697ce881e00800000000000000
+      internalID: 1015718703844163530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso de noche2
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 167
+        width: 556
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40533ce133dee2546b24cd2e0736abdd
+      internalID: 1636109433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47fd9cd93cd8bf346a111f4d45b64616
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      piso de noche1: 2256961157228128284
+      piso de noche2: 1636109433
+      piso de noche_1: -4944189450201273724
+      piso de noche_10: -183626037022096724
+      piso de noche_11: -3240054149297958819
+      piso de noche_12: 480581060945878143
+      piso de noche_13: 319486897396561326
+      piso de noche_14: 957898339586773404
+      piso de noche_15: 539635565364818323
+      piso de noche_16: -3437679533835728475
+      piso de noche_17: 8915693646771243055
+      piso de noche_18: 7870178860577627344
+      piso de noche_19: 2598805884449539555
+      piso de noche_2: 7169131357948483540
+      piso de noche_20: 7921512725258176466
+      piso de noche_21: 2971890475908101935
+      piso de noche_22: 5914131719268081144
+      piso de noche_23: 7455208874278068123
+      piso de noche_24: 7287281257384455461
+      piso de noche_25: -4241397970934007697
+      piso de noche_26: 4318376334725300420
+      piso de noche_27: 4355916373600723976
+      piso de noche_28: -2670350530446142785
+      piso de noche_29: -8846915182668039503
+      piso de noche_3: 6994481426832515608
+      piso de noche_30: 1015718703844163530
+      piso de noche_4: -4734130729623075459
+      piso de noche_5: 4260061077989733101
+      piso de noche_6: 1652237873025485480
+      piso de noche_7: 4815803357699039182
+      piso de noche_8: -751180571516592871
+      piso de noche_9: 1647704317944553507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
