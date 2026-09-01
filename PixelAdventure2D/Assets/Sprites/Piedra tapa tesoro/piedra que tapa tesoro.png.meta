@@ -1,25 +1,40 @@
 fileFormatVersion: 2
-guid: 13a48e429c1ff0c41b5c0233dcddafb4
+guid: d310d5d5b13626c458d1661bf9b4dddf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3921951047962138432
-    second: selva nocturna_0
+      213: -4855202067495114874
+    second: piedra que tapa tesoro_0
   - first:
-      213: -6240906403675634929
-    second: selva nocturna_1
+      213: -9091209260562554801
+    second: piedra que tapa tesoro_1
   - first:
-      213: -530945193686591732
-    second: selva nocturna_2
+      213: -1112593278365330532
+    second: piedra que tapa tesoro_2
   - first:
-      213: 5479220779779244426
-    second: selva nocturna_3
+      213: -7640451979741765633
+    second: piedra que tapa tesoro_3
   - first:
-      213: 1406691700056912082
-    second: selva nocturna_4
+      213: 8079847602889435833
+    second: piedra que tapa tesoro_4
   - first:
-      213: 593091719105215294
-    second: selva nocturna_5
+      213: -3719445534932250510
+    second: piedra que tapa tesoro_5
+  - first:
+      213: -8452662954196056903
+    second: piedra que tapa tesoro_6
+  - first:
+      213: -7898273871550686821
+    second: piedra que tapa tesoro_7
+  - first:
+      213: -1986812445706375958
+    second: piedra que tapa tesoro_8
+  - first:
+      213: 1624451348716162685
+    second: piedra que tapa tesoro_9
+  - first:
+      213: -5069913040647474784
+    second: piedra que tapa tesoro_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,35 +143,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: antorchaPrendida
+      name: piedra que tapa tesoro_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 431
-        width: 134
-        height: 308
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 17, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c8eebf1d4e6299c0800000000000000
-      internalID: -3921951047962138432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: selva nocturna_1
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 738
-        width: 33
-        height: 14
+        x: 105
+        y: 102
+        width: 1220
+        height: 971
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +158,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f03047c01b8d369a0800000000000000
-      internalID: -6240906403675634929
+      spriteID: 687263e817bde9cb0800000000000000
+      internalID: -4855202067495114874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: selva nocturna_2
+      name: piedra que tapa tesoro_1
       rect:
         serializedVersion: 2
-        x: 827
-        y: 739
+        x: 62
+        y: 207
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406d65485985d180800000000000000
+      internalID: -9091209260562554801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c931c8fde464f80f0800000000000000
+      internalID: -1112593278365330532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
         width: 9
-        height: 8
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,18 +224,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c071c1fc824b1a8f0800000000000000
-      internalID: -530945193686591732
+      spriteID: fffdf00c769a7f590800000000000000
+      internalID: -7640451979741765633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: selva nocturna_3
+      name: piedra que tapa tesoro_4
       rect:
         serializedVersion: 2
-        x: 836
-        y: 739
+        x: 520
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba24810692612070800000000000000
+      internalID: 8079847602889435833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 63
         width: 12
         height: 13
       alignment: 0
@@ -209,19 +268,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a814ea0e44a1a0c40800000000000000
-      internalID: 5479220779779244426
+      spriteID: 27053f01effd16cc0800000000000000
+      internalID: -3719445534932250510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: selva nocturna_4
+      name: piedra que tapa tesoro_6
       rect:
         serializedVersion: 2
-        x: 845
-        y: 735
-        width: 7
+        x: 578
+        y: 61
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b44a09c3db12ba80800000000000000
+      internalID: -8452662954196056903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d87bb2c1b36290800000000000000
+      internalID: -7898273871550686821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 63
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca8527b9c6d64e0800000000000000
+      internalID: -1986812445706375958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e812b15e53b8610800000000000000
+      internalID: 1624451348716162685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra que tapa tesoro_10
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 23
+        width: 17
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -231,272 +378,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d0f162f5a2958310800000000000000
-      internalID: 1406691700056912082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: selva nocturna_5
-      rect:
-        serializedVersion: 2
-        x: 1040
-        y: 0
-        width: 208
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3bfd74b6c51b3800800000000000000
-      internalID: 593091719105215294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: antorchaApagada
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 439
-        width: 113
-        height: 292
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1f957dd2bc6fbf47b0f0ab9a21c1ce8
-      internalID: 1664562013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedraGrande1
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 437
-        width: 260
-        height: 293
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b88e3a6e85742e4498f42785fb194790
-      internalID: -836013627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tronco
-      rect:
-        serializedVersion: 2
-        x: 602
-        y: 443
-        width: 372
-        height: 146
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64721d54c16bdfc4dae43f7e7cc4fb8e
-      internalID: -540705444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedra2
-      rect:
-        serializedVersion: 2
-        x: 1346
-        y: 442
-        width: 273
-        height: 270
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8adff4d859d2a54f97aeb63ea0f45f3
-      internalID: -942326582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: direccion
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 439
-        width: 139
-        height: 196
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a72836e4f0547bc4a99602fd3c485843
-      internalID: -628050588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cofre_abierto
-      rect:
-        serializedVersion: 2
-        x: 1811
-        y: 443
-        width: 135
-        height: 132
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d83e597f25341f04bb44ef053e12c0c6
-      internalID: -315872681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cofre_cerrado
-      rect:
-        serializedVersion: 2
-        x: 1953
-        y: 444
-        width: 117
-        height: 106
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48dafe1feaf3cdf47ad8e735e59988cf
-      internalID: 404066223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: piedra4
-      rect:
-        serializedVersion: 2
-        x: 981
-        y: 444
-        width: 360
-        height: 198
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa755afc99199fb4194dcb3875ade383
-      internalID: -504922608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tresPiedras
-      rect:
-        serializedVersion: 2
-        x: 591
-        y: 188
-        width: 328
-        height: 111
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3ba42e525bd7854f8f6f14d45685fe4
-      internalID: 312372833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "arbolpeque\xF1o"
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 189
-        width: 241
-        height: 111
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15121c74c5af33e449f506f99820d789
-      internalID: 972908044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arbolcortado
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 184
-        width: 169
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c78c70a0bcf3ed488a42544e272bfde
-      internalID: -39053985
+      spriteID: 0a1361a73fc04a9b0800000000000000
+      internalID: -5069913040647474784
       vertices: []
       indices: 
       edges: []
@@ -505,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ca58b5204b154924782c7fdc4ba3eb52
+    spriteID: 98e247cbf0bdadd49bd9b0cc4979e259
     internalID: 0
     vertices: []
     indices: 
@@ -515,23 +398,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      antorchaApagada: 1664562013
-      antorchaPrendida: -3921951047962138432
-      arbolcortado: -39053985
-      "arbolpeque\xF1o": 972908044
-      cofre_abierto: -315872681
-      cofre_cerrado: 404066223
-      direccion: -628050588
-      piedra2: -942326582
-      piedra4: -504922608
-      piedraGrande1: -836013627
-      selva nocturna_1: -6240906403675634929
-      selva nocturna_2: -530945193686591732
-      selva nocturna_3: 5479220779779244426
-      selva nocturna_4: 1406691700056912082
-      selva nocturna_5: 593091719105215294
-      tresPiedras: 312372833
-      tronco: -540705444
+      piedra que tapa tesoro_0: -4855202067495114874
+      piedra que tapa tesoro_1: -9091209260562554801
+      piedra que tapa tesoro_10: -5069913040647474784
+      piedra que tapa tesoro_2: -1112593278365330532
+      piedra que tapa tesoro_3: -7640451979741765633
+      piedra que tapa tesoro_4: 8079847602889435833
+      piedra que tapa tesoro_5: -3719445534932250510
+      piedra que tapa tesoro_6: -8452662954196056903
+      piedra que tapa tesoro_7: -7898273871550686821
+      piedra que tapa tesoro_8: -1986812445706375958
+      piedra que tapa tesoro_9: 1624451348716162685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
